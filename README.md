@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adekunleoloduero
+- 👋 Hi, I’m Sheriff Adekunle Tajudeen
 - 👀 I’m interested in Backend Engineeering, Artificial Intelligence/Machine Learning
 - 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on ...
